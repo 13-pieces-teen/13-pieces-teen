@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @13-pieces-teen
-- 👀 I’m interested in Web3.0 AI...
-- 🌱 I’m currently learning at college for ai
+- 👀 study in：Nanjing Tech University 南京工业大学
+- 🌱 major in：Artificial Intelligence
 - 📫 How to reach me ag2sag2sliu@gmail.com
 
 <!---
