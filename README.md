@@ -13,8 +13,7 @@
 ### 🧑‍💻 关于我
 -  热衷于用AI解决真实场景的痛点，主打「小而美的工具型开源项目」
 -  核心方向：**Agentic AI、大模型应用开发、自动化提效工具**
--  代表作：interview_agent —— 把杂乱的面经，变成结构化的备考利器，告别无效信息整理
--  日常：写代码、调Prompt、折腾LLM落地、给开源项目提PR
+-  日常：写代码、调Prompt、折腾LLM落地
 
 ---
 
@@ -51,6 +50,18 @@
 > - 内置AI一键生成参考答案，支持导出Markdown/Excel双格式
 > - 纯Python实现，轻量化部署，开箱即用
 
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=13-pieces-teen&repo=interview_agent&theme=github_dark&hide_border=true)](https://github.com/13-pieces-teen/TimeLoop)
+
+</div>
+
+> 🎯 项目亮点：
+> - NLU + NLG: Single LLM API call (GPT-4o-mini) with structured JSON output handles intent recognition, narrative generation, and state update suggestions simultaneously.
+> - State Engine: Structured GameState (per-loop) + LoopMemory (persistent across loops) + SanitySystem (maps sanity value to narrative style).
+> - Consistency Checker: Hard rules (deterministic Python checks) + soft check (sentence-transformers semantic similarity).
+> - UI: Gradio with narrative panel, status bar, choice buttons, and collapsible debug panel.
+
 ---
 
 ### 📈 开发状态
@@ -61,5 +72,4 @@
 
 ### 🤝 交流与合作
 -  项目Bug/需求：直接提Issue，我会尽快回复
--  技术交流：邮箱 你的邮箱 | 微信 你的微信（按需添加）
 -  合作邀约：欢迎一起折腾AI工具类开源项目
