@@ -6,7 +6,6 @@
 
 <div align="center">
 
-# 13-pieces-teen (YyY_LlL)
 `Code | AI | Build Tools That Matter`
 
 [![GitHub followers](https://img.shields.io/github/followers/13-pieces-teen?style=social)](https://github.com/13-pieces-teen)
