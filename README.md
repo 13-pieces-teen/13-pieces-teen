@@ -52,7 +52,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=13-pieces-teen&repo=interview_agent&theme=github_dark&hide_border=true)](https://github.com/13-pieces-teen/TimeLoop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=13-pieces-teen&repo=TimeLoop&theme=github_dark&hide_border=true)](https://github.com/13-pieces-teen/TimeLoop)
 
 </div>
 
