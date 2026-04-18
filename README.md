@@ -1,6 +1,65 @@
+<div align="center">
 
+# 13-pieces-teen (YyY_LlL)
+`Code | AI | Build Tools That Matter`
 
-<!---
-13-pieces-teen/13-pieces-teen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub followers](https://img.shields.io/github/followers/13-pieces-teen?style=social)](https://github.com/13-pieces-teen)
+[![GitHub stars](https://img.shields.io/github/stars/13-pieces-teen?style=social)](https://github.com/13-pieces-teen)
+
+</div>
+
+---
+
+### 🧑‍💻 关于我
+-  热衷于用AI解决真实场景的痛点，主打「小而美的工具型开源项目」
+-  核心方向：**Agentic AI、大模型应用开发、自动化提效工具**
+-  代表作：interview_agent —— 把杂乱的面经，变成结构化的备考利器，告别无效信息整理
+-  日常：写代码、调Prompt、折腾LLM落地、给开源项目提PR
+
+---
+
+### ⚙️ 技术工具箱
+#### 核心开发
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+#### AI & 大模型
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-181717?style=flat-square&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00ADD8?style=flat-square&logo=vector&logoColor=white)
+![Agent](https://img.shields.io/badge/AI_Agent-FF6F00?style=flat-square&logo=ai&logoColor=white)
+
+#### 工具与文档
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 开源项目 spotlight
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=13-pieces-teen&repo=interview_agent&theme=github_dark&hide_border=true)](https://github.com/13-pieces-teen/interview_agent)
+
+</div>
+
+> 🎯 项目亮点：
+> - 支持任意格式图文面经输入，一键提取结构化题目
+> - 自动按岗位/技术栈/难度打标签，精准分类
+> - 内置AI一键生成参考答案，支持导出Markdown/Excel双格式
+> - 纯Python实现，轻量化部署，开箱即用
+
+---
+
+### 📈 开发状态
+![GitHub 活跃度](https://github-readme-streak-stats.herokuapp.com/?user=13-pieces-teen&theme=default&hide_border=true)
+![访问统计](https://komarev.com/ghpvc/?username=13-pieces-teen&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+### 🤝 交流与合作
+-  项目Bug/需求：直接提Issue，我会尽快回复
+-  技术交流：邮箱 你的邮箱 | 微信 你的微信（按需添加）
+-  合作邀约：欢迎一起折腾AI工具类开源项目
