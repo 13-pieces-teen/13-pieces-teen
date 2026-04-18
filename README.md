@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+13-pieces-teen;AI+Agent+Developer;Interview+Efficiency+Tool+Creator" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
 
 # 13-pieces-teen (YyY_LlL)
 `Code | AI | Build Tools That Matter`
